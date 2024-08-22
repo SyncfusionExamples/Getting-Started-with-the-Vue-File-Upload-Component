@@ -2,7 +2,7 @@
 
 A quick-start Vue project that shows how to create and configure the Syncfusion [Vue File Upload](https://www.syncfusion.com/vue-components/vue-file-upload?utm_source=github&utm_medium=listing&utm_campaign=tutorial-videos-vue-file-upload-gettingstarted-sample) component. This project contains code to configure a few of its basic features, like uploading multiple files, uploading a single file, and validation during file upload. It also shows how to upload files asynchronously.
 
-Watch the video: Coming soon…
+Watch the video: https://www.syncfusion.com/tutorial-videos/vue/file-upload?title=getting-started-with-the-vue-file-upload-component 
 
 Refer to the following documentation to learn about the Vue File Upload component: https://ej2.syncfusion.com/vue/documentation/uploader/vue3-getting-started 
 
